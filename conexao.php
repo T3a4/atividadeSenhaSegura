@@ -1,5 +1,5 @@
 <?php
-$hostname = "localhost";
+$hostname = "sql111.infinityfree.com";
 $usuario = "root";
 $senha = "";
 $bancodedados = "banco_php";
