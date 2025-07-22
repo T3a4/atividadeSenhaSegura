@@ -1,7 +1,7 @@
 <?php
 $hostname = "sql111.infinityfree.com";
-$usuario = "root";
-$senha = "";
+$usuario = "if0_39533844";
+$senha = "Shakyra26";
 $bancodedados = "banco_php";
 
 $mysqli = new mysqli($hostname, $usuario, $senha, $bancodedados);
