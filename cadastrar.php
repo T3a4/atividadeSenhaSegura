@@ -1,6 +1,6 @@
 <?php
 // Incluindo a conexão com o banco de dados
-include 'conexao.php';
+include 'conexaolocal.php';
 
 // Verificando se o formulário foi enviado
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
