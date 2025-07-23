@@ -1,6 +1,6 @@
 <?php
 // Incluindo a conexão com o banco de dados
-include 'conexao.php';
+include 'conexaolocal.php';
 ?>
 
 <!DOCTYPE html>
@@ -9,7 +9,7 @@ include 'conexao.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulário de Cadastro</title>
-    <link rel="stylesheet" href="style.css"> <!-- Linkando o CSS -->
+    <link rel="stylesheet" href="sytle.css"> 
 </head>
 <body>
     <h2>Cadastro de Usuário</h2>
